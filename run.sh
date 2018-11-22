@@ -2,7 +2,7 @@
 
 # run.sh
 #
-# Starting to do everything on Ubuntu 16.04
+# Starting to do everything on Ubuntu 18.10
 
 # ------------------------------------------------------------------------
 # name: start() 
