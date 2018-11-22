@@ -4,7 +4,7 @@
 #
 # version 1.0.0
 #
-# Fixing $locale on Ubuntu Server 16.04
+# Fixing $locale on Ubuntu Server 18.10
 # author: Piotr Krol, simonphoenix.px@gmail.com
 
 # ------------------------------------------------------------------------
