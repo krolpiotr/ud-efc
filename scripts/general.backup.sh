@@ -15,7 +15,6 @@ GENERALBACKUPSDIR="/home/phoenix/General"
 # ------------------------------------------------------------------------
 # name: general_backup() 
 # desc: Backup of Backups to one file
-# return: 0
 # ------------------------------------------------------------------------
 general_backup() {
 
@@ -59,7 +58,6 @@ general_backup() {
 # ------------------------------------------------------------------------
 # name: clean_backups() 
 # desc: Backups older than 3 days are deleted
-# return: 0
 # ------------------------------------------------------------------------
 clean_backups() {
     dird="$GENERALBACKUPSDIR/"
