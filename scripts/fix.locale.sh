@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------
 # name: fix_locale() 
-# desc: Fixing $locale on Ubuntu Server 16.04
+# desc: Fixing $locale on Ubuntu Server 18.10
 # return: 0
 # ------------------------------------------------------------------------
 fix_locale() {
