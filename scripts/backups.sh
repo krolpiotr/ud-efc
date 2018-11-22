@@ -14,7 +14,7 @@
 # ------------------------------------------------------------------------
 # file: backups.sh
 #
-# Ubuntu 16.04 Backup
+# Ubuntu 18.10 Backup
 # - apache2 configuration files
 # - postfix configuration files
 # - dovecot configuration files
