@@ -22,7 +22,7 @@
 #      sudo apt-get install irssi;
 #    fi
 echo '           Checking packages....'
-    # lista pakietow
+    # list of packages
     list[0]=apache2
     list[1]=proftpd
     list[2]=mysql-server
@@ -54,7 +54,37 @@ echo '           Checking packages....'
     # service apache2 restart
 
     list[22]=nano
+    list[23]=default-jre
+    list[24]=net-tools
+    list[25]=open-vm-tools-desktop
+    list[26]=php7.0-intl
+    list[27]=hexchat
 
+    list[28]=nfs-common
+    list[29]=gparted
+
+    list[30]=xchat
+    list[31]=gnome-shell
+    list[32]=ubuntu-gnome-desktop
+
+    # to fix mbstring on Ubuntu 17.10
+    list[33]=php-intl
+    list[34]=php7.1-mbstring
+    list[35]=php7.1-intl
+    list[36]=gnumeric
+
+    list[37]=python3
+    list[38]=python3-pymysql
+    
+    list[39]=spyder3
+    list[40]=libmysqlclient-dev
+    list[41]=python3-mysqldb
+    
+    list[42]=rar
+    list[43]=vokoscreen
+    list[44]=ffmpeg
+    list[45]=mencoder
+    list[46]=kdenlive # movie creator
 
     # if such a file does not exist there then you have to make a link
     #cd /usr/lib/postfix
